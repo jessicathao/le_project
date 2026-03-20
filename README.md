@@ -1,4 +1,4 @@
-# Hi, I'm Jessie 👋
+# Hi, I'm Jessica Thao 👋
 
 I'm a student at **National Taiwan University (NTU)**, 
 currently enrolled in the **Brain Data Analysis Methods** 
