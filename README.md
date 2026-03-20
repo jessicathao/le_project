@@ -29,4 +29,4 @@ like the natural next step for my research.
 
 ## Let's Connect
 
-Feel free to explore my projects here or reach out!#le_project
+Feel free to explore my projects here or reach out!
