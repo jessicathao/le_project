@@ -24,7 +24,7 @@ like the natural next step for my research.
 
 - Python for data analysis
 - Version control with Git & GitHub
-- Neuroimaging data tools (nibabel, nilearn)
+- Neuroimaging data tools 
 - Open and reproducible science practices
 
 ## Let's Connect
