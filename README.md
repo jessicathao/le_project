@@ -4,6 +4,11 @@ I'm a student at **National Taiwan University (NTU)**,
 currently enrolled in the **Neurolinguistics Seminar** 
 course as part of the International Brainhack School program.
 
+<a href="https://github.com/jessicathao">
+   <img src="https://avatars.githubusercontent.com/u/51410708?v=4?s=100" width="100px;" alt=""/>
+   <br /><sub><b>ThachThao</b></sub>
+</a>
+
 ## About Me
 
 My background is in **sociolinguistics and corpus linguistics** — 
